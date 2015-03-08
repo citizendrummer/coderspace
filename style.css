@@ -2,12 +2,17 @@
 
 @import url(http://fonts.googleapis.com/css?family=Roboto);
 
+body {
+     font-family: 'Roboto', sans-serif;
+     color: #333333;
+}
+
 .img-responsive {
      margin: 0 auto;
      margin-top: 5%;
 }
 
-body {
-     font-family: 'Roboto', sans-serif;
-     color: #333333;
+.social {
+     height: 48px;
+     width: 48px;
 }
