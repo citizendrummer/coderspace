@@ -1,3 +1,4 @@
+
 @import url('//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css');
 
 @import url(http://fonts.googleapis.com/css?family=Roboto);
@@ -15,4 +16,8 @@ body {
 .social {
      height: 48px;
      width: 48px;
+}
+
+.dates  {
+     list-style-type: none;
 }
